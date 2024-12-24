@@ -55,8 +55,7 @@ This project demonstrates my SQL proficiency through solving 14 diverse data ana
 
 ## Contact Information
 Feel free to reach out for questions or feedback:
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: [Your Email Address](#)
+- **Email**: [deepakjakhmola38@gmail.com](#)
 
 **Thank you for exploring my project!**
 
