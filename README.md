@@ -4,8 +4,8 @@
 This project demonstrates my SQL proficiency through solving 14 diverse data analysis challenges using a movie dataset. It showcases my ability to write complex queries, analyze datasets, and provide actionable insights. 
 
 - **Skills Highlighted**: Joins, subqueries, aggregate functions, and data filtering.
-- **Tools Used**: PostgreSQL (PGY Admin), SQL.
-- **Key Achievement**: Solved 10+ challenges, demonstrating readiness for advanced data analysis roles.
+- **Tools Used**: PostgreSQL (PG Admin), SQL.
+- **Key Achievement**: Solved 15 challenges, demonstrating readiness for advanced data analysis roles.
 
 ---
 
